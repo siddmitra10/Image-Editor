@@ -2,28 +2,12 @@
 
 '''
 ===============================================================================
-ENGR 133 Program Description 
-This program takes the input of an image and manually creates a grayscale version, rotates it by a certain number of degrees, or box filters it.
+Program Description 
+This program takes the input of an image and manually creates a grayscale 
+version, rotates it by a certain number of degrees, or box filters it.
 
-Assignment Information
-	Assignment:     Python Project
-	Author:         Kate Wilson, wils1061
-                    Emme Longman, elongman
-                    Siddharth Mitra, mitra30
-                    Jeff Huang, huan1399
-                    
-	Team ID:        002-17 (e.g. 001-14 for section 1 team 14)
-	
-Contributor:                    
-	My contributor(s) helped me:	
-	[ ] understand the assignment expectations without
-		telling me how they will approach it.
-	[ ] understand different ways to think about a solution
-		without helping me plan my solution.
-	[ ] think through the meaning of a specific error or
-		bug present in my code without looking at my code.
-	Note that if you helped somebody else with their code, you
-	have to list that person as a contributor here as well.
+	Author: Siddharth Mitra	
+
 ===============================================================================
 '''
 import cv2 #imports Open CV to be later used in the file
